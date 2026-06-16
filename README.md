@@ -8,9 +8,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage and t
 
 - 🔗 **Frontend (Vercel)**: [https://expense-tracker-topaz-six.vercel.app](https://expense-tracker-topaz-six.vercel.app)
 - 🔗 **Backend (Render)**: [https://expense-tracker-ooym.onrender.com](https://expense-tracker-ooym.onrender.com)
-- 🔗 **GitHub Repository**: [https://github.com/sharmaHarshit2000/expense-tracker](https://github.com/sharmaHarshit2000/expense-tracker)
-
----
+  
 
 ## 📦 Features
 
